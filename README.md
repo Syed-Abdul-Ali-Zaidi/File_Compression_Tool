@@ -45,9 +45,13 @@ The project includes a simple and user-friendly CustomTkinter GUI for easy file 
 <br>
 
 -> Using the graphical interface, you can:
+<br>
     * Select a file and compress it.
+    <br>
     * Save the generated compressed file.
+    <br>
     * Select a compressed file and decompress it.
+    <br>
     * View status messages and file paths during processing.
 
 ⚙️ How It Works:
