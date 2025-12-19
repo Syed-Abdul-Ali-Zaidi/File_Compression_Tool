@@ -12,6 +12,10 @@ The project includes a simple and user-friendly CustomTkinter GUI for easy file 
 -> process.py   - Integrates RLE and Huffman for full compression/decompression
 <br>
 -> main.py      - Main application file with CustomTkinter GUI
+<br>
+-> Data for Compression Testing   - Files for testing Compression
+<br>
+-> Compressed Data   - Sample Output Files
 
 ✨ Features:
 <br>
