@@ -4,6 +4,7 @@ A lightweight Python-based File Compression Tool that compresses and decompresse
 The project includes a simple and user-friendly CustomTkinter GUI for easy file selection and processing.
 
 📁 Project Structure:
+<br>
 -> rle.py       - Run-Length Encoding compression and decompression logic
 -> huffman.py   - Huffman encoding and decoding logic
 -> process.py   - Integrates RLE and Huffman for full compression/decompression
