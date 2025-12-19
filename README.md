@@ -6,29 +6,43 @@ The project includes a simple and user-friendly CustomTkinter GUI for easy file 
 📁 Project Structure:
 <br>
 -> rle.py       - Run-Length Encoding compression and decompression logic
+<br>
 -> huffman.py   - Huffman encoding and decoding logic
+<br>
 -> process.py   - Integrates RLE and Huffman for full compression/decompression
+<br>
 -> main.py      - Main application file with CustomTkinter GUI
 
 ✨ Features:
+<br>
 
 -> Hybrid compression using RLE → Huffman Encoding.
+<br>
 -> Accurate and lossless decompression.
+<br>
 -> Simple, clean, and interactive GUI.
+<br>
 -> Modular and well-structured codebase.
+<br>
 -> Easy to understand and maintain.
 
 🛠️ Requirements:
+<br>
 
 -> Python 3.x.
+<br>
 -> customtkinter.
+<br>
 -> Install CustomTkinter library using:  pip install customtkinter
+<br>
 
 ▶️ Usage:
+<br>
 
 -> Run the application using:  python main.py
 
 🖥️ GUI Functionality:
+<br>
 
 -> Using the graphical interface, you can:
     * Select a file and compress it.
@@ -37,6 +51,7 @@ The project includes a simple and user-friendly CustomTkinter GUI for easy file 
     * View status messages and file paths during processing.
 
 ⚙️ How It Works:
+<br>
 
 The input file is first processed using Run-Length Encoding (RLE) to reduce repeating patterns.
 The RLE output is further compressed using Huffman Coding.
