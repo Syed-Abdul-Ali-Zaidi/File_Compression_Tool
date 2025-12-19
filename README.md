@@ -1,3 +1,4 @@
+<pre>
 *************** File Compression Tool *************** 
 
 A lightweight Python-based File Compression Tool that compresses and decompresses files using a hybrid approach of Run-Length Encoding (RLE) followed by Huffman Coding.
@@ -71,3 +72,4 @@ During decompression, the process is reversed to perfectly restore the original 
 * This project also serves as a Powerful Encrypter and Decrypter.
 * Intended for educational and academic purposes.# File_Compression_Tool
 * File Compression Tool using Run-Length Encoding (RLE) and Huffman Encoding to reduce file size efficiently.
+</pre>
